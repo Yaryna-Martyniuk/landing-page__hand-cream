@@ -43,10 +43,13 @@ input {
 .desc_title {
     font-size: 1rem;
     margin-bottom: 5px;
+    text-align: center;
 }
 
 .desc_subtitle {
     margin: 10px 20px 10px 5px;
     font-size: 0.7rem;
     font-family: 'Lato', sans-serif;
+    text-align: justify;
+    align-self: center;
 }
