@@ -26,5 +26,27 @@ input {
 
 .btn {
     background-color: var(--btn-bg-color);
-    
+}
+
+.grid {
+    display: flex;
+}
+
+.icon {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    width: 120vh;
+    width: 550px;
+}
+
+.desc_title {
+    font-size: 1rem;
+    margin-bottom: 5px;
+}
+
+.desc_subtitle {
+    margin: 10px 20px 10px 5px;
+    font-size: 0.7rem;
+    font-family: 'Lato', sans-serif;
 }
