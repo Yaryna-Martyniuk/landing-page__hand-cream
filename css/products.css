@@ -1,13 +1,16 @@
-.videoframe {
+.products {
     display: flex;
-    padding-top: 50px;
     justify-content: center;
+    align-items: center;
+    padding-top: 50px;
+    
 }
 
 .prices {
     margin-top: 60px;
     display: flex;
     flex-direction: row;
+    justify-content: center;
 }
 
 .prices > h2 {

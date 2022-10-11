@@ -8,3 +8,13 @@ footer > ul {
     display: flex;
     justify-content: flex-end;
 }
+
+footer > ul > li {
+    padding: 0 10px;
+    text-decoration: none;
+    color: var(--nav-text-color);
+}
+footer > span {
+    display: flex;
+    justify-content: flex-end;
+}
