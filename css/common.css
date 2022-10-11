@@ -13,6 +13,7 @@
     --btn-bg-color:#7ead84; 
     --border-color:#b3a9a9;
     --item-text-color:#201e1e;
+    --footer-bg-color:#93c298;
   }
 
   img {
@@ -29,3 +30,5 @@
   li {
     list-style: none;
   }
+
+  

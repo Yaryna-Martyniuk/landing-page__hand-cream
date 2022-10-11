@@ -2,6 +2,7 @@ footer {
     display: block;
     margin-top: 25px;
     padding: 20px;
+    background-color: var(--footer-bg-color);
 }
 
 footer > ul {
@@ -10,11 +11,19 @@ footer > ul {
 }
 
 footer > ul > li {
-    padding: 0 10px;
-    text-decoration: none;
+    padding: 0 5px;
     color: var(--nav-text-color);
+    font-size: 0.7rem;
 }
+
+footer > ul > li >a {
+    text-decoration: none;
+    color: var(--bg-header-color);
+}
+
 footer > span {
     display: flex;
     justify-content: flex-end;
+    padding: 0 5px;
+    font-size: 0.7rem;
 }

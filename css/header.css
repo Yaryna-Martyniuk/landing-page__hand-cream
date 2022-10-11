@@ -10,14 +10,13 @@
 
 .header__logo-img {
     width: 100px;
-
 }
-
 
 .header__nav-link {
     text-decoration: none;
     color: var(--nav-text-color);
-    display: inline;
+    display: flex;
+    flex-direction: row;
 }
 
 .header__logo>img {
