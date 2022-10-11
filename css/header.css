@@ -20,12 +20,7 @@
     display: inline;
 }
 
-li {
-    list-style: none;
-}
-
 .header__logo>img {
     width: 100px;
     height: 100px;
 }
-

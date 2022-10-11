@@ -24,10 +24,6 @@ input {
     border-radius: 11%;
 }
 
-.btn {
-    background-color: var(--btn-bg-color);
-}
-
 .grid {
     display: flex;
 }
