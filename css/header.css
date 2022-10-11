@@ -3,12 +3,12 @@
     width: 100%;
     /*position: fixed;*/
     top: 0;
-    min-height: 75px;
+    min-height: 80px;
     padding: 0px 20px;
     display: flex;
     justify-content: space-around;
     align-items: center;
-    background-color: blueviolet;
+    background-color: var(--bg-header-color);
 }
 
 .header__logo-img {
@@ -17,5 +17,9 @@
 
 .header__nav-link {
     text-decoration: none;
+    color: var(--nav-text-color);
+}
+
+li {
     list-style: none;
 }

@@ -7,5 +7,7 @@
   }
 
   :root {
-    font-family: 'Signika', sans-serif;
+    font-family: 'Bebas Neue', cursive;
+    --bg-header-color:#ffffff;
+    --nav-text-color:#41884a;
   }
