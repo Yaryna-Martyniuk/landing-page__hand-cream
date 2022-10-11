@@ -10,3 +10,8 @@
     --bg-header-color:#ffffff;
     --nav-text-color:#41884a;
   }
+
+  img {
+    display: block;
+    width: 100%;;
+  }
