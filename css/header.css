@@ -10,6 +10,7 @@
 
 .header__logo-img {
     width: 100px;
+    margin-left: 10px;
 }
 
 .header__nav-link {
@@ -17,6 +18,7 @@
     color: var(--nav-text-color);
     display: flex;
     flex-direction: row;
+    margin-right: 15px;
 }
 
 .header__logo>img {
