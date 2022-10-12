@@ -21,7 +21,7 @@
     margin-right: 15px;
 }
 
-.header__logo>img {
-    width: 100px;
-    height: 100px;
+.header__nav-list {
+    display: flex;
+    text-align: right;
 }
